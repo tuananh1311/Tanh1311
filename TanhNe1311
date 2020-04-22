@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
     <head>
-    <title>PHP Small Application</title>
+    <meta charset="utf-8">
+    <title>PHP Small app</title>
     </head>
     <body>
     <?php echo '<p>Hello. Welcome to PHP small application</p>'; ?>
